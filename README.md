@@ -35,7 +35,7 @@ Business Intelligence Dashboard: Tableau***
 
 ### Dimensional Model
 
-***This is the inital dimensional model created, however, we optimized and finalized it in python during the ETL process which only has 1 fact & 3 dimensions***
+***This is the original model, however, we optimized and finalized it in python during the ETL process which only has 1 fact & 3 dimensions***
 
 ![dim](https://github.com/Eddlee97/Data-Warehouse-Development-and-Dashboard-Analysis/blob/ecd5939a6bb77e1c25460df3cfdfa27fdc29290c/Milestone%20%232%20-%20Dimensional%20Model/Dimensional%20model.png)
 
