@@ -42,7 +42,11 @@ Business Intelligence Dashboard: Tableau <br>
 
 ![Alt text](https://github.com/Eddlee97/Data-Warehouse-Development-and-Dashboard-Analysis/blob/ecd5939a6bb77e1c25460df3cfdfa27fdc29290c/Milestone%20%234%20-%20BI%20Dashboard/BI%20wireframe%20design.png)
 
-***List of Visualizations for each KPI:***
+### Final Dashboard
+
+![Alt text](https://github.com/Eddlee97/Data-Warehouse-Development-and-Dashboard-Analysis/blob/ecd5939a6bb77e1c25460df3cfdfa27fdc29290c/Milestone%20%234%20-%20BI%20Dashboard/Overview%20of%20NYC%20Airbnb%20Rentals%20Revenue%20with%20Citibike%20Usage%20(CIS%209440).png)
+
+***KPI Description for each Chart:***
 
 - **Citibike Usage per Location (Jan 2021 + Feb 2021)** <br>
    - Treemap was used to effectively compare the number of Citibike trips per location by differentiate them with total amount and color <br>
@@ -82,7 +86,3 @@ Business Intelligence Dashboard: Tableau <br>
    - Adding a trendline to the scatter plot will allow audience to easily understand that the greater the traffic/usage for Citibike, the higher the number of listings will be rented
    
 ![dim](https://github.com/Eddlee97/Data-Warehouse-Development-and-Dashboard-Analysis/blob/d4f875180529e79f66ef1c5b6969efa140d67f19/Milestone%20%234%20-%20BI%20Dashboard/Chart/5.png)
-
-### Final Dashboard
-
-![Alt text](https://github.com/Eddlee97/Data-Warehouse-Development-and-Dashboard-Analysis/blob/ecd5939a6bb77e1c25460df3cfdfa27fdc29290c/Milestone%20%234%20-%20BI%20Dashboard/Overview%20of%20NYC%20Airbnb%20Rentals%20Revenue%20with%20Citibike%20Usage%20(CIS%209440).png)
