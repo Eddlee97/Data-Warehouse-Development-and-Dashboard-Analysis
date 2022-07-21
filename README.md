@@ -17,11 +17,11 @@ Main: Airbnb rentals data (New York City only) | http://insideairbnb.com/get-the
 Secondary: Citibike trip data (New York City only) | https://ride.citibikenyc.com/system-data
 
 **Tools Used:** <br>
-Documentation: Google Word Doc <br>
+***Documentation: Google Word Doc <br>
 Data Modeling: Lucid Chart <br>
 ETL Transformation: Python, Jupyter Notebook <br>
 Data Warehouse Cloud: Google BigQuery <br>
-Business Intelligence Dashboard: Tableau <br>
+Business Intelligence Dashboard: Tableau***
 
 ### Business Requirements Definition
 
