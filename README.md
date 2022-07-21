@@ -10,11 +10,13 @@ The goal is this project is to analyze these questions will help Airbnb have a b
 
 According to Airbnb earnings in Q4. The company posted an enormous loss in the fourth quarter of 2020 as it suffered from the pandemic downturn and revenue has dropped 30% in 2020 compared to previous year. To effectively solve this issue, we want to understand the correlation between Airbnb listings revenue and the Citibike traffic/usage in New York City. The opportunity may arise based on our findings in this project which will allow Airbnb to potentially understand lucrative rental locations and hot zones that may bring profits to the company.
 
-### Data Sources & Tools Used:
+### Data Sources:
 
-Main: NYC Airbnb data complied (September 2021) | http://insideairbnb.com/get-the-data.html <br>
-Secondary: NYC Citibike trip data | https://ride.citibikenyc.com/system-data
+Main: Airbnb rentals data (New York City only) | http://insideairbnb.com/get-the-data.html
 
+Secondary: Citibike trip data (New York City only) | https://ride.citibikenyc.com/system-data
+
+**Tools Used:** <br>
 Documentation: Google Word Doc <br>
 Data Modeling: Lucid Chart <br>
 ETL Transformation: Python, Jupyter Notebook <br>
