@@ -16,7 +16,8 @@ Main: Airbnb rentals data (New York City only) | http://insideairbnb.com/get-the
 
 Secondary: Citibike trip data (New York City only) | https://ride.citibikenyc.com/system-data
 
-**Tools Used:** <br>
+### Tools Used:
+
 ***Documentation: Google Word Doc <br>
 Data Modeling: Lucid Chart <br>
 ETL Transformation: Python, Jupyter Notebook <br>
