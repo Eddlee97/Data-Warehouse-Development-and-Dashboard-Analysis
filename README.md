@@ -12,7 +12,7 @@ According to Airbnb earnings in Q4. The company posted an enormous loss in the f
 
 ### Data Sources & Tools Used:
 
-Main: NYC Airbnb data complied (September 2021) | http://insideairbnb.com/get-the-data.html
+Main: NYC Airbnb data complied (September 2021) | http://insideairbnb.com/get-the-data.html <br>
 Secondary: NYC Citibike trip data | https://ride.citibikenyc.com/system-data
 
 Documentation: Google Word Doc
