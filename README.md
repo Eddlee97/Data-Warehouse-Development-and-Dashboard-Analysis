@@ -15,11 +15,11 @@ According to Airbnb earnings in Q4. The company posted an enormous loss in the f
 Main: NYC Airbnb data complied (September 2021) | http://insideairbnb.com/get-the-data.html <br>
 Secondary: NYC Citibike trip data | https://ride.citibikenyc.com/system-data
 
-Documentation: Google Word Doc
-Data Modeling: Lucid Chart
-ETL Transformation: Python, Jupyter Notebook
-Data Warehouse Cloud: Google BigQuery
-Business Intelligence Dashboard: Tableau
+Documentation: Google Word Doc <br>
+Data Modeling: Lucid Chart <br>
+ETL Transformation: Python, Jupyter Notebook <br>
+Data Warehouse Cloud: Google BigQuery <br>
+Business Intelligence Dashboard: Tableau <br>
 
 ### Business Requirements Definition
 
