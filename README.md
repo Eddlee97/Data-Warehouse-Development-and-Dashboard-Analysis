@@ -49,7 +49,7 @@ Business Intelligence Dashboard: Tableau <br>
    - Filtered the top 15 locations in terms of Citibike traffic <br>
    - The amount difference and color allow audience to easily understand the most visited locations in NYC
 
-![dim]()
+![dim](https://github.com/Eddlee97/Data-Warehouse-Development-and-Dashboard-Analysis/blob/d4f875180529e79f66ef1c5b6969efa140d67f19/Milestone%20%234%20-%20BI%20Dashboard/Chart/1.png)
 
 - **Ratings per Location - Frequent Visits (Top 15)** <br>
 
@@ -58,7 +58,7 @@ Business Intelligence Dashboard: Tableau <br>
    - Changed x-axis to 4.5 to 5, which show a clear difference in all ratings of the top 15 locations <br>
    - This allow audience to view a clear rating difference, and Airbnb executive can make business decision based on this ratings 
  
-![dim]()
+![dim](https://github.com/Eddlee97/Data-Warehouse-Development-and-Dashboard-Analysis/blob/d4f875180529e79f66ef1c5b6969efa140d67f19/Milestone%20%234%20-%20BI%20Dashboard/Chart/2.png)
 
 - **Total Revenue per Location based on Citibike Traffic** <br>
 
@@ -67,21 +67,21 @@ Business Intelligence Dashboard: Tableau <br>
    - Left y-axis: number of citibikes trips | Right y-axis: total revenue <br>
    - This allow audience to not only look at the total revenue of all frequent visit locations, but also explain the relationship between revenue and the amount of Citibike trips in each location
    
-![dim]()
+![dim](https://github.com/Eddlee97/Data-Warehouse-Development-and-Dashboard-Analysis/blob/d4f875180529e79f66ef1c5b6969efa140d67f19/Milestone%20%234%20-%20BI%20Dashboard/Chart/3.png)
 
 - **Average Price per Night Visit based on Citibike Traffic** <br>
 
    - Scatter plot was used to illustrate the average price of Airbnb per night and the amount of Citibike trips by plotting each location zipcode  <br>
    - This allow audience to glance at the overview of price for each location (by zipcode) and its relationship with Citibike traffic
    
-![dim]()
+![dim](https://github.com/Eddlee97/Data-Warehouse-Development-and-Dashboard-Analysis/blob/d4f875180529e79f66ef1c5b6969efa140d67f19/Milestone%20%234%20-%20BI%20Dashboard/Chart/4.png)
 
 - **Rentals Generated based on Citibike Trips (# of Rentals vs Citibike Trips) per Location** <br>
 
    - Scatter plot was used to indicate the relationship between the number of rentals and the nuber of Citibike trips based on each location, using zipcode and neighborhood names <br>
    - Adding a trendline to the scatter plot will allow audience to easily understand that the greater the traffic/usage for Citibike, the higher the number of listings will be rented
    
-![dim]()
+![dim](https://github.com/Eddlee97/Data-Warehouse-Development-and-Dashboard-Analysis/blob/d4f875180529e79f66ef1c5b6969efa140d67f19/Milestone%20%234%20-%20BI%20Dashboard/Chart/5.png)
 
 ### Final Dashboard
 
