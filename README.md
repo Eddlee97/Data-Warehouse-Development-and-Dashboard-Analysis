@@ -8,7 +8,7 @@ The goal is this project is to analyze these questions will help Airbnb have a b
   
 ### Project Issue:
 
-According to Airbnb earnings in Q4. The company posted an enormous loss in the fourth quarter of 2020 as it suffered from the pandemic downturn and revenue has dropped 30% in 2020 compared to previous year. To effectively solve this issue, we want to understand the correlation between Airbnb listings revenue and the Citibike traffic/usage in New York City. The opportunity may arise based on our findings in this project which will allow Airbnb to potentially understand lucrative rental locations and hot zones that may bring profits to the company.
+According to Airbnb earnings in Q4. The company posted an enormous loss in the fourth quarter of 2020 as it suffered from the pandemic downturn and revenue has dropped 30% in 2020 compared to previous year. To potentially solve this issue, we want to understand the correlation between Airbnb listings revenue and the Citibike traffic/usage in New York City. The opportunity may arise based on our findings in this project which will allow Airbnb to potentially understand lucrative rental locations and hot zones that may bring profits to the company.
 
 ### Data Sources:
 
