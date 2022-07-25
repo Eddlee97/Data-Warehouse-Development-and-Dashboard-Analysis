@@ -10,7 +10,7 @@ According to Airbnb earnings in Q4. The company posted an enormous loss in the f
 
 ### Project Goal:
 
-The goal is this project is to analyze these questions will help Airbnb have a better understanding on which areas should they promote more/less to overcome its post-pandemic financial stress and how can they generate more revenues efficiently.
+The goal is this project is to analyze these questions will help Airbnb have a better understanding on which areas should they promote more/less to overcome its post-pandemic financial stress and how can they potentially generate more revenues efficiently.
 
 ### Data Sources:
 
